@@ -1,0 +1,29 @@
+﻿22_SAS ON NETWORK TOOLS
+
+
+Q1. What is cable crimping?
+A. Crimping is a process used to join wire to wire or wire to terminal. 
+
+
+Q2. What is a modular connector?
+A. The modular connect is the concept of a new type of plug-in connector for the connection of electrical cables, fiber optic cables. 
+
+
+Q3. What is a wifi analyzer?
+A. A Wi-Fi analyzer tool helps you track and analyze your wireless network’s performance with ease. 
+
+
+Q4. What is a tone generator and probe?
+A. The tome generator and probe can be used to verify cable continuity, identify wiring faults, determine line polarity and voltage in network and modular telephone lines.
+
+
+Q5. What is a punch down tool?
+A. Punch down tools are used to terminate wires into punch down patch panels and punch down keystone jacks.
+
+
+Q6. What are cable testers?
+A. A cable tester is an electronic device used to verify the electrical connections in a signal cable or other wired assembly. 
+
+
+Q7. What is a loopback plug?
+A. A loopback plug is a connector used for diagnosing transmission problems on parallel and serial ports.

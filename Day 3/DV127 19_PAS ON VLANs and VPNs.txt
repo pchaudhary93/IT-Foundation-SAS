@@ -1,0 +1,82 @@
+19_SAS ON VLANs and VPNs
+Self-Assessment Sheet
+
+
+* What is a LAN?
+A Lan ia a Local Area Network. We commonly define this as a group of devices that are in the same broadcast domain. 
+
+
+* Why might we want to segment a network into smaller pieces?
+
+We might want to limit the number of broadcasts that might be on a network. So we might segment the network into smaller pieces. 
+
+* What are the inefficiencies of using multiple switches for a LAN?
+
+Powering two separate switches, and we’re managing the configurations on two separate switches are the inefficiencies of using multiple switches for LAN.
+* What is VLAN?
+A virtual local area network is any broadcast domain that is partitioned and isolated in a computer network at the data link layer.
+
+
+* How does VLAN solve the inefficiencies of using multiple switches?
+VLANs reduce the incidence of collisions and decrease the number of network resources wasted by acting as LAN segments.
+
+
+* How can we make a LAN more efficient and cost-effective?
+A router can be used to build LANs for wired and wireless devices if both Ethernet and Wi-Fi connections are enabled.
+
+
+* How does VLAN provide separation between different networks?
+A VLAN uses a switch to group several different computers into a virtual network.
+
+
+* What are the advantages of using VLAN over multiple switches?
+VLANs provide a number of advantages including ease of administration, confinement of broadcast domains, reduced network, and enforcement of security policies.
+
+
+* How does using a single switch with VLANs help to manage and lower costs for a LAN?
+Using a single switch with VLANs by separating it with VLAN1, VLAN2, and VLAN3 this make it easier to manage the network and keep cost lower. 
+
+
+* What is a VPN and how does it work?
+A technology that has become rather commonplace on our networks today is a VPN or a Virtual Private Network. This is usually a combination of software and hardware that allows us to securely send information across public networks such as the internet.
+
+
+* Everything sent over a VPN connection is automatically encrypted, making it unreadable if intercepted by anyone in the middle.
+Yes, if they happened to capture this information, they wouldn’t be able to see or understand anything in the conversation.
+
+
+* What does a VPN look like on the desktop of an operating system?
+When connected, the VPN connection name will display connected underneath it. 
+
+
+* The user can connect and disconnect from the VPN using this interface and may also have options to configure the VPN connection settings?
+Yes
+
+
+* Are VPNs typically hardware or software-based?
+Bothe it’s based on hardware and software.
+
+
+* What is the advantage of using a VPN in a coffee shop?
+It can stop people, software, and web browsers from gaining access to your connection.
+
+
+* How does the VPN concentrator handle incoming and outgoing data?
+It receives incoming data, de-encapsulating and decrypting the data. It encapsulates the outgoing network data into encrypted packets and then transmits the data through VPN tunnel. 
+
+
+* Can VPN software be installed on operating systems?
+Yes
+
+
+* Most modern operating systems come included with some type of VPN client.
+For example, Cisco’s AnyConnect, Pulse, Palo Alto Network’s GlobalProtect.
+
+
+
+* What is a VPN concentrator?
+VPN concentrators are used to connect many remote networks and clients to a central corporate network.
+
+
+* The entire process of VPN data encryption happens behind the scenes and is automatic as soon as you enable the VPN software
+True
