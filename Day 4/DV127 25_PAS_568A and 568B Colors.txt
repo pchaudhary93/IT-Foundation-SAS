@@ -1,0 +1,62 @@
+25_SAS_568A and 568B Colors
+Self-Assessment Sheet
+
+
+Q1. What are the international standards for cabling? 
+Ans: The international standards for cabling is the ISO/IEC 11801 cabling standards.
+
+
+Q2. The TIA standard for cabling is the _________standard, which is the ___________________Standard.
+Ans. TIA 568 and telecommunications cabling
+
+
+Q3. What does TIA stand for?
+Ans. TIA stands for Telecommunications Industry Association
+
+
+Q4. What does the TIA 568 standard cover? 
+Ans: Commercial building
+
+
+Q5. What are the two standards for 8P8C connectors? 
+Ans: One is 568A and one is the 568B
+
+
+Q6. What are 8P8C connectors?
+Ans. These are 8 position 8 conductor connectors
+
+
+Q7. What is the 568A coloring scheme associated with? 
+Ans: Horizontal coloring
+
+
+Q8. What is the difference between the 568A and the 568B color standards? 
+Ans: Both of these standards work exactly the same and have the same functionality, and one is not better or worse than the other.
+
+
+Q9. : What color scheme do ethernet crossover cables use? 
+Ans: A crossover has one end with the Orange set of wires switched with the Green set.
+
+
+Q10. What do the 568A and 568B standards specify? 
+Ans. Colors
+
+
+Q11. What is the difference between T568A and T568B? 
+Ans: The pins 1 in 2 are different in 568A.
+
+
+Q12. How are pins 1 and 2 different between the 568A and 568B standards? 
+Ans: The green and orange pairs.
+
+
+Q13. What is the best way to tell what standard is in use for an ethernet cable? 
+Ans: It is written on the cable jacket as Cat5e or Cat6a.
+
+
+Q14. What are the colors in the A and B standard? 
+Ans: We can also see that the orange and green colors have also been changed between these two standards between pins 3 and pin 6. Interestingly, pins 4 and 5 and 7 and 8 are exactly the same between the A and the B standard.
+
+
+Q15. Write an example of a block that has a  different color assigned to A & B standard.
+Ans. You can see on this side of the block, we have the four colors that we would use for A or the four colors that we would use for B. If we were to turn this block around, we would see four more colors that associate with the four different connectors on the other side of the block.

@@ -1,0 +1,61 @@
+﻿24_SAS_Optical Fiber
+Self-Assessment Sheet
+
+
+Q1. What are the benefits of using ethernet over optical fiber as opposed to twisted pair copper cabling? 
+Ans: Faster speed, Greater bandwidth, and longer communication distance. 
+
+
+Q2. What do you mean by transmission by light?
+Ans. We are sending light signals down one side of the fiber, receiving the light on the other side, and that is why we’re able to transmit data over very long distances without any type of copper cabling.
+
+
+Q3. Another characteristic of fiber optic communication is because we’re sending light signals, there’s no ______________.
+Ans. Radio frequencies.
+
+
+Q4.What is the advantage of using fiber optics for communication? 
+Ans: You can send light signals a very long distance, much longer than you could over a copper cable.
+
+
+Q5. Radio frequencies tend to have a larger distance than fiber optics. (T/F)
+Ans. False. It Tends to have a shorter distance than fiber optics.
+
+
+Q6. What if there’s any radio frequencies in your immediate area, then what is the impact on Fiber optics?
+Ans. It will have no impact on the signal going across the fiber optic network. 
+
+
+Q7. What does the fiber optic connection look like? 
+Ans: You can see the fiber itself is very, very small, especially compared to a copper cable, and the actual fiber is smaller that’s on the very end of this ferrule that protecting the fiber optics.
+
+
+Q8. What is the purpose of the buffer coating in a fiber optic cable? 
+Ans: It protects everything that’s on the inside of that fiber optic cable.
+
+
+Q9. What is the purpose of the cladding surrounding the core in fiber optics? 
+Ans: Classing, which has a low reflective index, which means that any light that happens to hit the cladding is usually absorbed by the cladding instead of being reflected back in through the core.
+
+
+Q10. What is usually found at the end of a fiber optic connection? 
+Ans: There’s usually a ferrule, which is very often a large ceramic protector that goes around the fiber optics.
+
+
+Q11. What are two broad categories of fiber optics?
+Ans. The two broad categories of fiber optics cable - a multi-mode fiber and a single-mode fiber.
+
+
+Q12. What type of fiber optic cable is commonly used for large range communication? Ans: Single-mode fiber
+
+
+Q13. Each networking standard has its own set of maximum distances that you can use, depending on what type of____________you’re using.
+Ans. Cabling 
+
+
+Q14. What type of light source is commonly used with multi-mode fiber? 
+Ans: Inexpensive light source
+
+
+Q15. What type of fiber optic cable is commonly used for short range communication? 
+Ans. Multi-mode fiber.
