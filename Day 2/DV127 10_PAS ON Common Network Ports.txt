@@ -1,0 +1,63 @@
+10_SAS ON Common Network Ports
+Self-Assessment Sheet
+
+
+1. What is Port 20 (TCP)?
+Data transfer
+
+2. What is Port 21 (TCP)?
+Is used to control the data transfer
+
+3. What is FTP (File Transfer Protocol)?
+It is a generic way to transfer data between devices, but it commonly requires some type of authentication to log in to that remote device. 
+
+4. What is Port 22 (TCP)?
+SSH commonly communicates over TCP using port 22. 
+
+5. What is SSH (Secure Shell)?
+SSH has this text-based front end to be able to access that remote device.
+
+6. What is Port 23 (TCP)?
+Telnet commonly uses TCP port 23 to provide connection.
+
+7. What is Telnet?
+Telnet provides this text-based front ends that allows us to connect to the remote console of another device.
+
+8. What is Port 25 (TCP)?
+SMTP commonly uses Port 25.
+
+9. What is Simple Mail Transfer Protocol (SMTP)?
+It is the protocol that emails servers use to communicate with each other.
+
+10. What is Port 53 (UDP)?
+DNS commonly uses Port 53.
+
+11. What is DNS (Domain Name System)?
+DNS provides resolution between a name that we’re typing in on the browser and the IP address that will be used for the actual communication.
+
+12. What is Port 80 (TCP)?
+HTTP protocol uses Port 80
+
+13. What is Port 443 (TCP)?
+HTTPS uses port 443
+
+14. What is HTTP (Hypertext Transfer Protocol)?
+HTTP is the common protocol used by our browsers to communicate to web servers.
+
+15. What is HTTPS (Hypertext Transfer Protocol Secure)?
+HTTPS is the common protocol in our browser’s communicating over an encrypted connection.
+
+16. Port 110 (TCP)?
+POP3 is the Post Office Protocol version 3. 
+
+17. What is Port 143 (TCP)?
+IMAP (Internet Message Access Protocol) uses port 143.
+
+18. POP and IMAP?
+Post Office Protocol and Internet Message Access Protocol
+
+19. What is POP3 (Post Office Protocol version 3)?
+POP3 was designed to retrieve email messages to an email client, but it wasn’t built for multiple email clients. 
+
+20. What is IMAP (Internet Message Access Protocol)?
+To synchronize across all of these different mailboxes, we commonly use IMAP4.

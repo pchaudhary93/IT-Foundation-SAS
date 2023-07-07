@@ -1,0 +1,54 @@
+14_SAS On Network Services
+Self-Assessment Sheet
+
+
+1. What is a Web Server?
+A web server is software and hardware that uses Hypertext Transfer Protocol and other protocols to respond to client requests made over the World Wide Web.    
+    
+2. What is a File Server?
+Users can connect to the network, users can also store files on the network server.  
+       
+3. What is Print Server? 
+If you work in an enterprise environment, we usually connect printers to the network and then we put those printers in centralized areas that are close to the users. We’re able to connect to the network by using a print server.     
+   
+4. What is a (Domain Name System) DNS Server?
+DNS stands for Domain name System and it’s a service that’s primarily responsible for converting fully qualified domain names and IP addresses.         
+
+5. What is a (Dynamic Host Configuration Protocol) DHCP Server?
+DHCP stands for Dynamic Host Configuration Protocol, and this is the service that automatically assigns and configures IP address settings on your local device.  
+       
+6. What is a Mail Server?
+Another important service that often requires 100% uptime and availability is a mail server. This is the server responsible for sending and receiving mail for your organization.     
+    
+7. What is a Proxy Server?
+Some organizations have installed proxy servers to add additional security to their internet communications. As the name implies, a proxy sits in the middle of a conversation. 
+        
+8. What is an Authentication Server?
+The organization’s using an authentication server which centralizes all of those usernames and passwords to a single service.      
+   
+9. What is SIEM (Security Information and Event Management)?
+In many organizations, we use a Security Information and Event Manager to collect all of these log files. We usually refer to this as a SIEM. As you can imagine log files take a lot of room, so the SIEM usually has a very large drive array and we’re able to store a large number of files over a very expected period of time.         
+
+10. What is Forensic Analysis?
+Forensic analysis refers to a detailed investigation for detecting and documenting the consequences of a security incident.        
+ 
+11. What is Syslog?
+One of the protocols that allows us to consolidate these log files is called syslog. This is a very common standard. and if your system collects logs, then it probably has the option to send those logs to a centralized database using syslog. 
+
+12. What is IDS (Intrusion Detection System)?
+These devices can often act as intrusion detection systems, which can block known attacks from traversing the network. 
+
+13. What is IPS(Intrusion Prevention System)?
+These devices can often act as intrusion prevention systems, which can block known attacks from traversing the network. 
+
+14. What is All-in-one security appliance?
+This is another case where the security of these devices is relatively important. we wouldn’t want somebody gaining access to our systems because they have access to these IoT devices. 
+
+15. What is Endpoint Management Server?
+Endpoint management is the practice of authenticating and supervising the access rights of end point devices to a network and applying security policies that prevent any external or internal threats posed by that access. 
+
+16. What is a Legacy System?
+One common theme with data centers is once a service is installed, it’s very difficult to get that service removed from the data center. And often devices and services may sit in the data center for 10 years or even more. We often refer to these systems as legacy systems. 
+
+17. What is an Embedded System?
+Another type of service you might find in your data center is an embedded system. These are systems where you normally don’t have access to the operating system or any other aspect inside of the device.

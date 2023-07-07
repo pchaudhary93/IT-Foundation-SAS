@@ -1,0 +1,50 @@
+9_SAS On Introduction to IP
+Self -Assessment Sheet
+
+
+1. What is Internet Protocol (IP)?
+IP is the set of rules governing the format of data sent via the internet or local network.
+        
+2. What is the meaning of Encapsulation?
+It's a process that allows us to move all kinds of data across the network.        
+3. What does TCP stand for?
+Transmission Control Protocol  
+      
+4. How does TCP (Transmission Control Protocol) work?
+It is designed to send packets across the internet and ensure the successful delivery of data and messages over the network. 
+        
+5. What does UDP stand for?
+User Datagram Protocol   
+     
+6. How does UDP (User Datagram Protocol) work?
+UDP simply sends data from one place to the other. And it’s a very simple transaction to be able to send information across the network.
+
+7. What is OSI Layer 4?
+TCP or UDP is operating at the transport layer of the OSI model. Sometimes we refer to this as OSI layer 4.
+
+8. What does OSI Layer 4 - Transport Layer do?
+It simply sent across the network with no type of acknowledgement that data was received on the other side. 
+
+9. What is Multiplexing?
+Multiplexing provides many different applications on your system communicating to a separate server all simultaneously. 
+
+10. What is a port?
+A port in networking is a software defined number associated with a network protocol that receives or transmits communications for specific services. 
+
+11. What is a Port Number?
+A port number is a way to identify a specific process to which an internet or other network message is to be forwarded when it arrives at a server.
+
+12. What does IPv4 Socket consist of?
+The network prefix and the host number
+
+13. What are Non-Ephemeral Ports?
+Ports that are permanent
+
+14. What are Ephemeral Ports?
+Ephemeral ports are temporary port numbers
+
+15. What is Data Transport Analogy?
+Providing transport from one end to another. 
+
+16. What is Network Topology?
+It is the physical and logical arrangement of nodes and connections in a network.

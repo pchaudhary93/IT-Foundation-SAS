@@ -1,0 +1,35 @@
+15_SAS On IPv4 and IPv6
+Self-Assessment Sheet
+
+1. How many bits are in an IPv4 address?
+32 bits
+
+2. How many bits are in an IPv6 address?
+128 bits
+
+3. What are the first 64 bits in an IPv6 address?
+The network component is the first 64 bits of the address and is used for routing. 
+
+4. What are the second 64 bits in an IPv6 address?
+The node component is the later 64 bits and is used to identify the address of the interface. 
+
+5. What is the highest possible digit/number for each byte in an IPv4 address?
+8 bits
+
+6. What settings to check when troubleshooting IPv4?
+Check the host’s default router settings against the router’s LAN interface configuration, for the IP address command. 
+
+7. What is Dynamic Host Configuration Protocol (DHCP)?
+DHCP is a network protocol that is used to configure network devices to communicate on an IP network.
+ 
+8. What port does a device use to broadcast to DHCP server?
+It is broadcasted widely across the network using the UDP port number 68. 
+
+9. What port does DHCP server use to broadcast to a device?
+Port 68
+
+10. What is a subnet mask?
+Subnet masks are used by the local device to determine what subnet it happens to be a part of. So it uses this to mask out the IP address, leaving only the host address at the end. 
+
+11. What is default gateway?
+If the device also needs to communicate outside of your local subnet, and most devices do, you’ll need to also assign a default gateway.

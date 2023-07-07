@@ -1,0 +1,33 @@
+12_SAS ON Software Defined Networking
+Self-Assessment Sheet
+
+
+1. What is Software Defined Networking (SDN)?
+With software denied networking, we take those devices like switches, routers, firewalls and other networking infrastructure devices and we change them to be a software based platform that we could use in the cloud.  
+      
+2. What are Computer Networking Planes?
+There are commonly three layers or three ways to separate these devices so that we can create some consistency across all of these network components. 
+        
+3. What is Data Plane?
+It is common that this data plane would do the forwarding, the trunking, the encrypting, the network address translation, or anything else that needs to occur at that packet level. 
+       
+4. What is Control Plane?
+If you have dynamic routing protocols, a forwarding table in a switch, a network address translation table in a router, all of those are contained in the control plane.  
+       
+5. What is Management Plane?
+When yo SSH into a router, when you bring up a graphical front end of a firewall, you’re managing that device from the management plane.     
+   
+6. What is Software Defined Networking Controller (SDN Controller)?
+With software defined networking, we take those devices like switches, routers, firewalls, and other networking infrastructure devices and we change them to be a software based platform that we could use in the cloud. 
+        
+7. What is Distributed Control Planes?
+Distributed control plane means that control plane of all networking devices lies within the device itself.    
+    
+8. What is Controller Based Networking?
+In a controller based networking architecture, the controller needs to communicate to the networking devices.    
+    
+9. What is a Routed Port?
+Routed ports are used for point-to-point links. Connecting WAN routers and security devices are examples of the use of routed ports.  
+      
+10. What is OpenFlow?
+OpenFlow is a protocol that allows a server to tell network switches where to send packets.

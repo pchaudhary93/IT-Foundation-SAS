@@ -1,0 +1,57 @@
+13_SAS On Wireless Network Standards
+Self-Assessment Sheet
+
+
+1. What is 802.11a speed?
+54 megabits per second
+
+2. What is 802.11a Frequency & range?
+5 GHz
+
+3. What are some other features of 802.11a?
+802.11a uses a 5 GHz frequency band which is less crowded and hence has relatively smaller interface problems.  
+      
+4. What is 802.11b Speed?
+11 megabits per second 
+       
+5. What is 802.11b Frequency & range?
+2.4 GHz        
+
+6. What are some other features of 802.11b?
+802.11b is an IEEE standard and an extension to 80j2.11 that applies to Wireless LAN’s and provides 11 Mbps transmission in the 2.4 GHz band.   
+     
+7. What is 802.11g Speed?
+54 Mbps     
+   
+8. What is 802.11g Frequency & range?
+2.4 GHz   
+     
+9. What are some other features of 802.11g?
+802.11g offers wireless transmission over distances of 150 feet and speeds up to 54 Mbps.    
+    
+10. What is 802.11n Speed?
+450 Mbps        
+
+11. What is 802.11n Frequency & range?
+2.4 or 5 GHz        
+
+12. What are some other features of 802.11n?
+802.11n supports multi-channel utilization and dual band support for both 2.4 and 5 GHz.     
+    
+13. What is 802.11ac Speed?
+1300 Mbps   
+     
+14. What is 802.11ac Frequency & range?
+5GHz     
+   
+15. What is 802.11ax Speed?
+10 Gbps      
+  
+16. What is 802.11ax Frequency & range?
+2.4 or 5 GHz   
+     
+17. What is RFID?
+It is a wireless technology that’s widely used is RFID or Radio Frequency identification. 
+
+18. How does RFID work?
+If you have an access badge that unlocks the door by holding it up to a sensor, it’s probably using RFID inside of that badge. And we even use RFID at home to keep track of our pets.

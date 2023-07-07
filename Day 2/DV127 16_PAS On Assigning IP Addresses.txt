@@ -1,0 +1,32 @@
+16_SAS On Assigning IP Addresses
+Self-Assessment Sheet
+
+1. How to assign IPv4 IP addresses for Private IP?
+There may be times when your device is configured to obtain a DHCP address, but on your local network there’s no longer a DHCP server. In those situations your devices will be assigned an APIPA address. That stands for an Automatic Private IP Addressing Address. 
+
+2. What is the process of DHCP (Dynamic Host Configuration Protocol)?
+This four step DORA process happens every time a device connects to the network and needs to obtain an IP address from a DHCP server. 
+
+3. What is the result of DHCP (Dynamic Host Configuration Protocol)?
+A DHCP server dynamically assigns an IP address and other network configuration parameters to each device on a network so that it can communicate with other IP networks. 
+
+4. Features of Static IP address?
+When a device is assigned a static IP address, the address does not change. 
+
+5. Features of Dynamic IP address?
+Most devices use dynamic IP addresses, which are assigned by the network when they connect and change over time.
+
+6. What is Automatic Private IP Address (APIPA)?
+APIPA is a feature of windows-based OSes- included since Windows 98 and Windows ME. It enables a DHCP client to automatically assign an IP address to itself when there’s no DHCP server available to perform that function. 
+
+7. What is unicast addresses?
+The unicast address specifies a single interface. A packet sent to a unicast address destination travels from one host to the destination host. 
+
+8. What is multicast addresses?
+Multicast is a great technology that enables a group of computers sharing a multicast address to communicate together.
+
+9. What is anycast addresses?
+Anycast also known as IP anycast, is an IP network addressing scheme that allows multiple servers to share the same IP address. 
+
+10. What is BootP?
+BootP allows a client to find its IP address and the name of a load file from a server on the network.

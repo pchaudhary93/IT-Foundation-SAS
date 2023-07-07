@@ -1,0 +1,48 @@
+11_SAS ON Network Devices
+Self-Assessment Sheet
+
+
+1. What is a Router?
+A router is a device that forwards traffic between IP subnets. The router uses the IP address that’s within the packet to determine what the next hop might be on its way to the final destination.   
+     
+2. What is a Switch?
+Switch is another common infrastructure device. A switch determines where traffic should be forwarded based on the destination MAC address inside  that time frame. 
+        
+3. What is an Unmanaged Switch?
+If you’ve simply powered the switch up and there’s no configuration options on the switch at all, then you’re probably using an unmanaged switch.  
+       
+4. What is a Managed Switch?
+A managed switch may allow you to configure different interfaces to be on completely different IP subnets or what we call VLANs or Virtual LANs.   
+      
+5. What is a Bridge?
+It’s simply bridging people on the wireless network to the folks that are on the wired network.  
+      
+6. What is a Patch Panel?
+Wiring closet is a patch panel. We first would connect all of those devices to this patch panel and that run is a permanent run. 
+
+7. What is a Firewall?
+A traditional firewall is able to allow or disallow traffic through your network based on IP addresses and port numbers.   
+      
+8. What is a Hub?
+We commonly use hubs to be able to connect all of the devices on our network. Sometimes you’ll hear a hub referred to as a multiport repeater.    
+     
+9. What is a Cable Modem?
+If you’re using the same cable for your cable television as your internet connection, then you probably have a cable modem in your home. This allows you to communicate over what we call broadband communication because there are multiple frequencies of traffic being used over a single wire. 
+        
+10. What is a DSL Modem?
+If you’re not using your cable company for internet connectivity, you may be using the traditional telephone company to provide that connection. And usually that’s done through a DSL modem.    
+     
+11. What is ONT?
+If you’re not connecting to the internet using copper cable or telephone lines, then you may be connecting with fiber. To connect to the fiber network, you need an ONT, or an Optical Network Terminal, which is a device that’s usually connected outside of your home or your premises.   
+      
+12. What is Network Interface Card (NIC)?
+If you are connecting to a copper ethernet connection, you’re using a Network Interface Card to provide that connectivity or a NIC. 
+        
+13. What is a Wireless Access Point (WAP)?
+A wireless access point is a hardware device or configured node on a local area network that allows wireless capable devices and wired networks to connect through a wireless standard including Wi-Fi.  
+       
+14. What is a Wireless LAN Controller?
+A Wireless LAN controller manages wireless network access points that allow wireless devices to connect to the network.  
+       
+15. What is a Repeater?
+A hub referred to as a multiport repeater. That’s because hubs are not very intelligent devices. Any data that’s going into one interface on this hub will automatically be copied and sent to all of the other interfaces on this hub.
