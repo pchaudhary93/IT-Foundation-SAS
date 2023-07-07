@@ -1,0 +1,83 @@
+DV500_6_SAS Cellular Standards
+Self-Assessment Sheet
+
+
+1. What were the original cellular networks called?
+Ans 2G networks
+
+
+2. What are the two global standards for cellular network?
+Ans GSM (Global System for Mobile Communications) and CDMA (Code Division Multiple Access).
+
+
+3. What does GSM stand for?
+Ans Global System for Mobile Communications
+
+
+4. What does CDMA stand for?
+Ans  Code Division Multiple Access
+
+
+5. What does LTE stand for?
+Ans Long Term Evolution
+
+
+
+
+6. What is the newest generation of cellular network?
+Ans 5G
+
+
+7. Organizations handle email a little bit differently, and most organizations will have a corporate configuration that needs to be added to the mobile device. True and False?
+Ans False
+
+
+8. CDMA was the most popular in the world and with providers. True or False?
+Ans False (It wasn’t popular)
+
+
+9. CDMA was used by what two mobile carriers?
+Ans Verizon and Sprint
+
+
+10. What two standards of cellular network were very good for voice communication?
+Ans  GSM and CDMA
+
+
+11.  What was a limitation with GSM and CDMA networks?
+Ans They had very limited support for sending data over these wireless network.
+
+12.  What percentage of the worldwide market did GSM hold?
+Ans  GSM was about 90% of the worldwide market.
+
+
+13.  What network allowed you to have all of your phone configurations on a subscriber identity module or a SIM card?
+Ans  GSM 
+
+
+14. This network allowed us to have much more capabilities for the data that we were sending from our mobile devices. And with additional speed, we could send more of that data much faster over these same networks?
+Ans   3G technologies 
+
+
+15. This network controlled exactly what handsets you were able to use on their networks and was not so popular around the world?
+Ans  In the United States, CDMA was commonly used by Verizon and Sprint.
+
+
+16.  What was introduced as the third new network?
+Ans 3G technologies that we introduced in 1998.
+
+
+17.  With the enhanced speeds of the 3G network, we were able to introduce new capabilities for our mobile handsets. What are some examples?
+Ans   Such as GPS, mobile television, streaming video and streaming audio, or video on demand.
+
+
+18.  What does LTE stand for and what are the average speed of the network?
+Ans  LTE stand for Long Term Evolution and average speed of the network is up to 150 megabits per second.
+
+
+19.  The new 5G networks have introduced greatly enhanced speeds. Eventually what speeds will the network be able to perform at?
+Ans  Perform at around 10 gigabits per second.
+
+
+20. As these 5G networks are rolling out, you may find that you have speeds between ___ and __ megabits per second?
+Ans 100 and 900 megabits per second.

@@ -1,0 +1,82 @@
+DV500_2_SAS On Laptop Hardware
+Self-Assessment Sheet
+
+
+
+
+1. What does it mean to be modular? 
+Ans Modular means laptop batteries.
+
+2. What type of battery technology do we use today?
+Ans Battery technology we use today is lithium ion or lithium-ion polymer.
+
+
+3. What happens each time you charge a battery?
+Ans It diminishes the capacity just a bit. 
+
+
+4. What is one advantage to using a modular battery configuration?
+Ans Advantage is they will slide in and lock into place. Unlock the battery with the switch that’s on the back, pull it out, and replace it with a new battery. 
+
+
+5. True or False? lithium-ion batteries are designed to be 80 percent charged. 
+Ans False, lithium-ion batteries are designed to be fully charged.
+
+
+6. True or False? In lithium-ion batteries, discharging some of the battery and charging it back up again you have to worry about causing a effect on memory or limiting the amount of capacity that battery might have.
+Ans False, In lithium-ion batteries, discharging some of the battery and charging it back up again you don’t have to worry about causing a effect on memory or limiting the amount of capacity that battery might have.
+
+
+7. Where are all the programs that are executing in your operating system executing?
+Ans All the programs that are executing in your operating system executing in memory.
+
+
+8. What does SO-DIMM stand for?
+Ans  SO-DIMM stands for Small outline dual in-line memory module.
+
+
+9. Where is SO-DIMM usually used?
+Ans  There is a window or an opening at the bottom of the laptop that allows you to easily add and remove these memory modules.
+
+
+10.  Are you able to change/upgrade memory for a device that has it soldered to the motherboard?
+Ans  You can’t upgrade or change the amount of memory in that laptop.
+
+
+11.  In what form do older laptops have storage in?
+Ans Older laptops have storage in the form of a magnetic disk.
+ 
+
+
+12.  In what form do new laptops have storage?
+Ans  Many new laptops have storage in form of solid state drives, or SSDs.
+
+
+13.  What is one advantage of SSD?
+Ans  One advantage of SSD is no moving parts inside of an SSD. It is greatly increased speed for reading and writing data to this device.
+
+
+14.  What is one way you can migrate from a hard drive to an SSD
+Ans  To migrate from a hard drive to an SSD - and a method that’s perhaps more elegant - is to create a clone or an image of the hard drive and move that image to new SSD. 
+
+15.  What are some types of authentications?
+Ans  Some types of authentications are Operating system can look at our face, it can look at our fingerprint, and be able to determine if that’s really us and if we should gain access to the system.
+
+
+16. What is one disadvantage of laptop keyboard?
+Ans  Sometimes have things fall within the keyboard itself. Keycaps are very fragile. 
+
+
+17.  What is NFC?
+Ans  NFC is near-field communication. 
+
+18. What does NFC allow you to do?
+Ans  This allows us to transfer data or perform authentication to the device without physically touching it.
+
+
+19.  Is m.2 a modular setup?
+Ans  Yes, m.2 is a modular form of storage. 
+
+
+20. M.2 interface on an SSD drive is larger than traditional SATA-connected SSD? True or False?
+Ans  False, it is much smaller than traditional SATA-connected SSD.

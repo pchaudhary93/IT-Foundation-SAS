@@ -1,0 +1,80 @@
+﻿DV500_4_SAS On Connecting Mobile Devices 
+Self-Assessment Sheet
+
+
+1. What does USB stand for?
+Ans Universal serial Bus
+
+
+2. What are USBs used for?
+Ans USB is designed for high speed communication and it’s often used to connect our mobile device with our computer or with a power source.
+
+
+3. What type of plug are we seeing less of on laptops?
+Ans The larger type A plug we seeing less of on laptops.
+
+
+4. What is NFC?
+Ans NFC is a very popular mobile connection type.
+
+
+5. What does NFC do?
+Ans NFC is a Near Field Communication and it’s a way to send small amounts of data between devices that are located very close to each other. 
+
+
+6. Give an example of NFC?
+Ans NFC can be used to access devices like an identification card that could hold up to a sensor and use it to unlock an electronic door. 
+
+
+7. What method is the most used in mobile device connectivity?
+Ans Bluetooth is the most used in mobile device connectivity. It is probably one of the most popular wireless communication methods we use with our mobile devices.
+
+
+8. What are examples of mobile hot spot?
+Ans You can enable that wireless hotspot functionality on your mobile phone and now anyone around you can connect your mobile phone over 802.11. Mobile phone will use your wireless provider’s network to be able to gain access to the internet.
+
+
+9. What device uses lightning connection?
+Ans Apple device uses lightning connection.
+
+
+10.  What interface was used before USB?
+Ans DB-9 connections with RS232 before USB.
+
+
+11.  What connection has nine pins?
+Ans DB-9 connection has nine pins.
+
+
+12.  Sometimes DB-9 is referred to as?
+Ans Sometimes DB-9 is referred to as DE-9. 
+
+
+
+
+13. What replaced DB-9?
+Ans USB replaced DB-9.
+
+
+14.  If you have an older device, it may be connecting over USB with what type of USB?
+Ans It may be connecting over USB with a mini B plug type of USB.
+
+
+15.  Many of today’s mobile devices connectivity will use which USB?
+Ans Micro B plug
+
+
+16.  What type of signals can USB-C plug send?
+Ans The type of signals USB-C plug can send display port signals and it may provide HDMI video and audio. Or you may be sending Thunderbolt data over a USB-C physical connection.
+
+
+17.  RS232 is associated with what type of interface?
+Ans RS232 is associated with DB-9 interface.
+
+
+18.  Is mobile hotspot free on all devices?
+Ans No, mobile hotspot is not free on all devices. Provider may require you to pay extra each month just to enable that capability on your phone.
+
+
+19.  What is 802.1?
+Ans 802.11 is a standard transmitting data over a wireless network.

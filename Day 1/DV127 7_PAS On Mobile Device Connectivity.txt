@@ -1,0 +1,81 @@
+DV500_7_SAS On Mobile Device Connectivity
+Self-Assessment Sheet
+
+
+1.  Connecting an external device to your tablet or your mobile phone wirelessly you would use what method of pairing?
+Ans  Bluetooth pairing process
+
+
+2. Do you have to go through the pairing process every time when using Bluetooth?
+Ans  No
+
+
+3. What mode do you need to be in to be viewable on Bluetooth?
+Ans  Discoverable mode
+
+
+4. Does Bluetooth have pin protection?
+Ans  Yes
+
+
+5. What is GPS
+Ans  Our mobile phones are communicating to multiple satellites every day using GPS or the Global Positioning System.
+
+
+6. Who created GPS first?
+Ans These GPS satellites were originally created by the US Department of Defense.
+
+
+7. True or False? There are currently only 5 GPS satellites.
+Ans False (There are currently over 30 GPS satellites in orbit around the Earth)
+
+
+8. How do our phones gather information about where we’re located in the world?
+Ans As long as our phone is able to hear the signals coming from at least four of these satellites, we can now get very precise information about where we happen to be in the world.
+
+
+9. What is MDM?
+Ans MDM is one way to manage the mobile devices that are being used by employees of organization.
+
+
+10.  One way to manage all the mobile device being used by your organization.
+Ans MDM (Mobile Device Management)
+
+
+11.  What is BYOD?
+Ans BYOD (Bring Your Own Device) is users own the devices and bring  to work. 
+
+
+12.  What is an advantage of using MDM?
+Ans This allows the manager of the MDM to sit at a single console and gain access to the configurations of all of the mobile devices in their environment.
+
+
+13.  If the manager wants to ensure that certain applications are installed, the data is protected, or that certain capabilities of the phone are enabled or disabled, such as the camera, you can do all of that using?
+Ans MDM
+
+
+14.  You can use the MDM to manage the type of access control that’s being used on a mobile phone. True or False?
+Ans True
+
+
+15.  Can MDM improve security?
+Ans Yes, For example, your security controls may require two factor authentication on these devices, there may be a personal identification number, or you may require users to include biometrics when they’re unlocking the phone.
+
+
+16.  The MDM can also be used to prevent certain applications from being installed? True or False?
+Ans True
+
+
+17.  If our phone can hear the signals coming from at least how many satellites so that we can get very precise information?
+Ans At least four of the satellites
+
+18.  Our phones can calculate where we happen to be based on timing differences from all these different satellites. True or False?
+Ans True
+
+
+19.  Best way to connect external devices wirelessly to a device?
+Ans  Bluetooth 
+
+
+20. The first step in the pairing process is making sure:
+Ans That both devices are configured to use Bluetooth.
