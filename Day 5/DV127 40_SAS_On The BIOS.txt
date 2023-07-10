@@ -1,0 +1,90 @@
+﻿40_SAS On The BIOS
+Self-Assessment Sheet
+
+
+Q1. What is BIOS?
+Ans: BIOS is when you start your computer, something has to begin the process of loading an operating system.
+
+
+Q2. What does BIOS stand for?
+Ans. BIOS stands for Basic Input Output System.
+
+
+Q3.  BIOS is sometimes referred to as the ___________________.
+Ans. Firmware of your system.
+
+
+Q4. Is the BIOS stored in Read Only Memory or ROM? 
+ANS: Almost everything relating to the BIOS today is stored in ROM.
+
+
+Q5. When you power on your system, it initializes the ____________and the __________, and it begins executing the code of the BIOS.
+Ans. Memory and the CPU
+
+
+Q6. What is the post or power on self-test? 
+Ans: After the CPU and memory is initialized, you have the post of power on self-test.
+
+
+Q7. What will the BIOS do after the components are in place? 
+Ans: If all of those components are in place, your BIOS will look to see what you’ve configured to be the boot drive, and then it will look for a boot loader installed on that boot drive so that it can start the operating system.
+
+
+Q8. What is the flash memory used for? 
+Ans: The flash memory used by the BIOS can usually be found on your motherboard. 
+
+
+Q9. What does the BIOS configuration allow for? 
+Ans: The motherboard has two separate BIOS configurations, one that is a main BIOS config and a backup BIOS config. This allows you to upgrade the BIOS on your system.
+
+
+Q10. What type of BIOS is found on older computers? 
+Ans: A text-based BIOS.
+
+
+Q11. Is it possible to upgrade the capabilities of a legacy BIOS? 
+Ans. We can make very basic configuration changes from this legacy BIOS, but there’s no way to change or upgrade the capabilities of this BIOS.
+
+
+Q12. What does UEFI BIOS stand for?
+Ans. The UEFI stands for Unified Extensible Firmware Interface.
+
+
+Q13. What is UEFI BIOS?
+Ans. It is a standard form of BIOS that can be used across multiple manufacturers.
+
+
+Q14. What is the most modern form of BIOS? 
+Ans. The BIOS that’s in our most modern computers is called a UEFI BIOS.
+
+
+Q15. The EFI Standard is created by_________.
+Ans. Intel called the EFI standard or the Extensible Firmware Interface. 
+
+
+Q16. What does the EFI standard stand for?
+Ans. The EFI standard stands for Extensible Firmware Interface.
+
+
+Q17. What does the EFI standard do?
+Ans. It allows many different manufacturers to create a BIOS that all is standardizes on the same features and capabilities.
+
+
+Q18. The EFI Standard is designed to replace a ________________.
+Ans. Legacy BIOS
+
+
+Q19. Are new computers using a UEFI BIOS? 
+Ans: The new computers you use today will be using a UEFI BIOS instead of the traditional legacy BIOS. 
+
+
+Q20. What information can be found in the System Information section? 
+Ans: You can look at the system Information for this particular computer, including serial numbers and hardware configuration.
+
+
+Q21. What can be done from the security area of a UEFI BIOS? 
+Ans: If you’d like to add a user or administrator password, you would do all of these settings from the security area of this particular UEFI BIOS.
+
+
+Q22. ___________________ allows you to install additional hardware drivers so that you can interact with other components that may be connected to your computer, such as a network interface card storage or any other hardware device on that system.
+Ans. UEFI drivers

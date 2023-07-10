@@ -1,0 +1,84 @@
+42_SAS_On CPU Features
+Self-Assessment Sheet
+
+Q1. What is the main difference between 32-bit and 64-bit architectures? 
+Ans: Most of the latest operating systems are 64-bit architectures. But you might find older operating systems still running that are 32-bit architectures.
+
+
+Q2. A 32-bit processor can access__________ gigabytes of information, whereas a 64-bit processor can access_____________billion gigabytes of information.
+Ans. 4, 17.
+
+
+Q3. How can you find the system type of your Windows system? 
+Ans: You can go to the Control Panel under the System settings, and it will tell you the system type.
+
+
+Q4. What type of hardware drivers do you need if you are using a 32-bit operating system? 
+Ans: Then you will need to use 32-bit hardware drivers.
+
+
+Q5. What is x86 software? 
+Ans: 32-bit applications are installed under Program Files x86.
+
+
+Q6. How can you tell if applications have been written for a 64-bit operating system or a 32-bit operating system? 
+Ans: 32-bit applications are installed under Program Files x86 and 64-bit apps are simply installed under Program Files.
+
+
+Q7. If you're running a 64-bit operating system, you can only run 64-bit applications, but you cannot run 32-bit applications. (True/False?
+Ans. False
+
+
+Q8. What is the Advanced Risk Machine? 
+Ans: There’s another family of operating systems called the Advanced Risk Machine or ARM. This is an architecture that was developed by ARM Limited.
+
+
+Q9. What are the benefits of the ARM architecture? 
+Ans: They designed the specifications for the hardware, and then third parties uses those specifications to create ARM-based CPUs.
+
+
+Q10. What types of devices use ARM? 
+Ans: It uses less power, creates less heat, and it’s perfect for our mobile devices.
+
+
+Q11. We often refer to a CPU, or a Central Processing Unit, as a ________________.
+Ans . Single, monolithic device.
+
+
+Q12. The main processing of a CPU occurs on the _____________.
+Ans. Processor core.
+
+
+Q13. How many cores are in modern CPUs? 
+Ans: There are multiple cores that are on a single physical CPU package.
+
+
+Q14. What is not unusual for multiple cores in a CPU? 
+Ans: it’s not unusual for the multiple cores to also have multiple caches. These might have caches that are dedicated for a core, or there may be shared caches that are used across all of the cores.
+
+
+Q15. If you start monitoring the amount of processing occurring on your CPU,you might see such as the _______________.
+Ans. Windows Task manager.
+
+Q16. What does HTT stand for?
+Ans. HTT stand for Hyper-Threading Technology.
+
+
+Q17. What is Hyper-Threading Technology? 
+Ans: Hyper-threading is a process by which a CPU divides up its physical cores into virtual cores that are treated as if they are actually physical cores by the operating system.
+
+
+Q18. What is the impact of hyper-threading? 
+Ans: In reality, we’re not getting twice the amount of work from one single device. Instead, it simply increases the throughput of the processes going through the CPU by somewhere around 15% to 30%.
+
+
+Q19. Does a modern operating system support hyper-threading? 
+Ans: Today any modern operating system supports hyper-threading.
+
+
+Q20. What kind of hardware is needed to virtualize additional operating systems? 
+Ans: Many CPUs also include hardware that allow us to virtualize additional operating systems on our computer. 
+
+
+Q21. How can I check if my processor supports Intel Virtualization Technology (VT) or AMD Virtualization (AMD-V)? 
+Ans: If you have an Intel processor in your system, you can check your BIOS and see if it supports the Intel Virtualization Technology or VT. If you’re running an AMD processor, then you may be running AMD Virtualization, or AMD-V.

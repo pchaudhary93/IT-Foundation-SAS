@@ -1,0 +1,68 @@
+﻿44_SAS_On Cooling
+Self-Assessment Sheet
+
+
+Q1. What is one of the biggest challenges when it comes to maintaining the operation of a computer? 
+Ans: One of the biggest challenges when maintaining the operation of our computer is making sure that it remains cool.
+
+
+Q2. How can we provide cooling for our computers? 
+Ans: One very common way to provide this cooling is through the use of cool air. 
+
+
+Q3. What factors should be taken into account when thinking about cooling a system? Ans: You can use multiple fans or different sized fans, and you may be able to move some components around within your system to improve the overall airflow.
+
+
+Q4. What type of adapter cards have a fan directly connected to them? 
+Ans: Adapter card
+
+
+Q5. What is a fan controller? 
+Ans: There are many different sizes and speeds available, and it’s very common to have a fan controller built into the motherboard that can also control how much airflow is going through your system.
+
+
+Q6. Is it possible to replace a loud fan with a quieter one? 
+Ans: If you find that a certain fan is very loud inside of your computer case, you may be able to replace it with a similar fan that is much quieter.
+
+
+Q7. Are there any computer systems that have no fans at all? 
+Ans: There are some computer systems that have no fans at all. They are completely silent, and all of the cooling is done passively.
+
+
+Q8. What kind of tests is a passively cooled system put through? 
+Ans: If you are using a system that is passively cooled, then it’s very likely the manufacturer has already put it through a number of tests to make sure that, no matter how hard you use this system, it will be able to keep up with the cooling necessary to keep that system running.
+
+
+Q9. What is used for passive cooling? 
+Ans: They are using a heat sink.
+
+Q10. What is a heat sink? 
+Ans: A heat sink is a specially designed piece of metal.
+
+
+Q11. Thermal paste referred to as ___________________or____________.
+Ans. Thermal grease or conductive grease.
+
+
+Q12. What is thermal paste? 
+Ans: This is what you’ll put in between the heat sink and thet very warm component.
+
+
+Q13. How is the liquid cooled? 
+Ans: This is the same type of cooling you might see in something like an automobile or a mainframe computer, where you’re using cool liquid, very often cool water, to be able to bring the temperature down of these components.
+
+
+Q14. What is connected to the liquid-cooled system? 
+Ans: A radiator is connected to the liquid-cooled system.
+
+
+Q15. What happens to the hot water from the CPU? 
+Ans: You would have the hot water coming from the CPU. It would be sent through the radiator.
+
+
+Q16. What happens as the hot water goes through the radiator? 
+Ans: It would be sent through the radiator.
+
+
+Q17. What happens to the cool water after it is cooled down? 
+Ans: As it’s going through the radiator, there's usually cool air that is blowing through and cooling all of that water down. And then the cool water is brought back to the CPU, and the entire cycle starts again.

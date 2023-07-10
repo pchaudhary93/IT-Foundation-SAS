@@ -1,0 +1,89 @@
+36_SAS_On RAID 
+Self-Assessment Sheet
+
+
+Q1. What is used to store large amounts of information? 
+Ans: Hard drives are used to store large amounts of information. 
+
+
+Q2. What can happen to hard drives eventually? 
+Ans: Because there are moving parts inside of these drives, they will eventually fail.
+
+
+Q3. What can be done to ensure data remains available if a drive fails? 
+Ans: RAID arrays can be configured to provide this type of data redundancy.
+
+
+Q4. What is RAID? 
+Ans: RAId is a very good way to backup your data. It is the data that you are actively retrieving and storing.
+
+
+Q5. What does RAID stand for? 
+Ans: RAID stands for Redundant Array of Independent Disks.
+
+Q6. What is the difference between earlier versions of RAID and the current version? 
+Ans: Earlier versions of this acronym used the word Inexpensive Disks instead of Independent, but effectively the same idea. 
+
+
+Q7. Do all RAID levels provide redundancy? 
+Ans: There are some RAID levels that do not provide redundancy.
+
+
+Q8. We referred to different types of RAID as ____________.
+Ans. Levels
+
+
+Q9. What is RAID 0 or striping? 
+Ans: We refer to this as striping because we have at least two drives in a RAID 0 array. And instead of writing everything to one drive or everything to the other drive, we take all of our data and we split it evenly between these two drives.
+
+
+Q10. What is the benefit of splitting a single file across multiple drives? 
+Ans: The single file will be split evenly between these two disks. So block one is on disk 0. Block 2 is on disk 1. 
+
+
+Q11. What is the problem with RAID 0? 
+Ans: If we lose one of these drivers, none of this data will now be available because you’ve effectively lost half of the data that you’ve stored.
+
+
+Q12. How is RAID 1 different from RAID 0? 
+Ans: RAID1 we are duplicating data between both of these drives. So each drive effectively is a mirror image of the other.
+
+
+Q13. What is the benefit of having duplicate drives? 
+Ans: If we lose either of these physical disks, our data remains available because we have an exact duplicate of the data on the other disk.
+
+
+Q14. What is the consequence of having duplicate drives? 
+Ans: We will effectively need twice as much storage to be able to store this same amount of information.
+
+
+Q15. : What is RAID 5? 
+Ans: RAID 5 is a method which we call striping parity. 
+
+
+Q16. How does RAID 5 work? 
+Ans: We take all of the information that we’re storing and we put pieces of that data across different drives.
+
+
+Q17. What is the purpose of RAID 5? 
+Ans: The parity information allows us to rebuild this data if we happen to lose any of these physical drives.
+
+
+Q18. What happens if a single drive is lost in a RAID system? 
+Ans: It may seem that losing a single drive will also cause some of our data to be lost.
+
+
+Q19. What is RAID 10? 
+Ans: RAID 10 is also referred to as RAID 1 plus 0 or a stripe of mirrors. 
+
+
+Q20. What does a RAID 0 configuration look like? 
+Ans: We have RAID 0 with three separate physical drives. And you can see that we are evenly distributing our files across all three of those individual drives.
+
+
+Q21. What is RAID 1 plus 0? 
+Ans: It is a stripe of mirrors.
+
+
+Q22. What are the benefits of RAID 1 plus 0? 
+Ans: With RAID 1 plus 0, we add on the RAID 1 part of the mirroring aspect and we start mirroring all of our RAID 0 arrays.

@@ -1,0 +1,106 @@
+43_SAS_On Expansion Cards 
+Self-Assessment Sheet
+
+
+Q1. What is one way to extend and add to the capabilities of a system? 
+Ans: One of the nice parts about our modern computing platforms is that we’re able to extend those capabilities by adding additional to our systems.
+
+
+Q2. How do you install an expansion card? 
+Ans: One of the primary ways of adding this hardware is through the use of expansion cards.
+
+
+Q3. What type of card might be installed? 
+Ans: Expansion card
+
+
+Q4. What might the sound card provide? 
+Ans: The sound card that could provide output of high-end audio.
+
+
+Q5. What kind of audio outputs does this sound card provide? 
+Ans: High-end audio.
+
+
+Q6. What should I do to check what other options I have with my sound card? 
+Ans: You can see there is a headphone jack that looks to be ¼-inch jack, along with a line-in jack.
+
+
+Q7. Do I need an external video card if I only need basic video capabilities? 
+Ans: Many CPUs already have video technology built into the CPU package itself. You may not need an external video card if you simply need basic video capabilities because that’s going to be provided by your CPU.
+
+
+Q8. What is a discrete graphics card? 
+Ans: Discrete graphics card, which is different than the integrated GPU or integrated graphics that are in your CPU.
+
+
+Q9. What types of interfaces are typically found on the back of a computer with an integrated graphics card? 
+Ans: The interface that might be on the back of a computer that has an integrated graphics card or the graphics are integrated into the CPU of the system. You can see on this motherboard you can plug in a VGA connection, a DVI, or an HDMI connection.
+
+
+Q10. How do we use the higher-end capabilities of this card? 
+Ans: For example, some of the interfaces that are on this video card. You have DVI. Looks like there are DisplayPort interfaces and HDMI output. To be able to use these higher-end capabilities of this card, we would need to plug our monitor into one of these interfaces that are directly connected to this video card.
+
+
+Q11. What do you need to take advantage of a discrete graphics processor? 
+Ans: You would need to plug directly into this card to be able to take advantage of the discrete graphics processor. Our discrete graphics cards are usually output devices.
+
+
+Q12. How do you provide live streaming? 
+Ans: You would need some type of external card to receive that video signal.
+
+
+Q13. What type of interface does the video capture card have? 
+Ans: This card has obviously been designed to be able to maintain high levels of video input, especially when using higher resolutions. PCI Express interface.
+
+
+Q14. What type of video input does the card support? 
+Ans: The first connector is the well-known HDMI connector and SDI interface or Serial Digital Interface.
+
+
+Q15. SDI stands for __________________.
+Ans. Serial Digital Interface.
+
+
+Q16. How is the SDI brought in? 
+Ans: The SDI is brought in through coax.
+
+
+Q17. Does a motherboard come with a wired ethernet connection? 
+Ans: Many motherboards come with a wired ethernet connection integrated into the motherboard itself.
+
+
+Q18. What is a Network Interface Card? 
+Ans: A NIC provides a computer with a dedicated, full-time connection to a network.
+
+
+Q19. When might you need to add an additional Network Interface Card? 
+Ans: It may be that you need additional interfaces, or perhaps the integrated or built-in ethernet interface is no longer operating.
+
+
+Q20. What is the process for installing a network interface card? 
+Ans: Installing a network interface card is exactly the same as installing any other device into an expansion slot. You find a slot that’s available and then push the adapter card into that available slot.
+
+
+Q21. What should you do before purchasing an adapter card? 
+Ans: You might want to do a little bit of work to make sure if that card is compatible with your system.
+
+
+Q22. What type of software do we need to use the adapter card? 
+Ans: Software is called a device drive.
+
+
+Q23. Why should I download the latest version of a device driver? 
+Ans: The drivers that might ship with your hardware are almost always out of date. So it’s a good best practice to check the manufacturer’s website and download the latest version of the device driver.
+
+
+Q24.How do I install a driver? 
+Ans: Sometimes this driver installation is done through the Windows Device Manager.But some manufacturers have created their own installation executable.
+
+
+Q25. What do you do when you need to install a new device driver? 
+Ans: Make sure you have the correct process for installing the driver on your system.
+
+
+Q26. How do you check if the operating system is using the new hardware properly? 
+Ans: You can check Device Manager to see the status of the system to confirm that the operating system is using that new hardware properly.
