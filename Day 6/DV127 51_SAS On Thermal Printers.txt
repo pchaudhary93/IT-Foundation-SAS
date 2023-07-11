@@ -1,0 +1,65 @@
+﻿DV500 51_SAS On Thermal Printers
+Self-Assessment Sheets
+
+
+Q1. What is a thermal printer? 
+Ans: A thermal printer operates by feeding a specially coated white paper into the printer. 
+
+
+Q2. Do thermal printers use any ink or toner?
+Ans. This doesn’t use any ink and no toner.
+
+
+Q3. Thermal Printers use _______________ to create the output.
+Ans. Heat
+
+
+Q4. We most commonly associate thermal printers with ________________.
+Ans. Receipt printers.
+
+
+Q5. What is one disadvantage of thermal printers? 
+Ans: They are very quiet printers.
+
+
+Q6. What happens if you use clear tape on thermal paper? 
+Ans:. You’ll notice that the section where the tape is covering will slowly turn white.
+
+
+Q7. If you're planning to archive any information, you probably want to use a thermal printer. (True/False)
+Ans. False
+
+
+Q8. What is needed to pull paper through a thermal printer? 
+Ans: To be able to pull the paper through the thermal printer, you need some type of feed assembly.
+
+
+Q9. _______________consists of a long cylinder that holds the paper in place with friction, and gears on the side that turn the cylinder and feed the paper through the printer.
+Ans. The feed assembly
+
+
+Q10. What is the silver component in this printer? 
+Ans: The silver component in this printer is the heating element that’s creating the information on this page.
+
+
+Q11. How does the heating element create the information on the page? 
+Ans: Different parts of the heating element will heat up to create the black color on the page.
+
+
+Q12. What is the silver heating element? 
+Ans. The silver heating element works extremely quickly and very effectively.
+
+
+Q13. What is thermochromic paper? 
+Ans. The color change that occurs because of a chemical that’s been added to the paper. It’s also referred to as thermochromic paper or thermal paper.
+
+
+Q14. What kind of paper is used in cash registers and credit card terminals? 
+Ans: Thermal paper
+
+
+Q15. How does thermal paper look compared to regular paper? 
+Ans: Although this looks like normal paper, it feels very different and obviously works very different than regular paper.
+
+
+Q16. What should be kept in mind when buying or replacing paper for a thermal printer? Ans: If you need to purchase or replace paper that’s in a thermal printer, make sure you’re using exactly the right kind of paper.

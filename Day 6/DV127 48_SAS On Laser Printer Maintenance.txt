@@ -1,0 +1,102 @@
+DV500_48_SAS On Laser Printer Maintenance 
+Self-Assessment Sheet
+
+
+Q1. What is one of the most common maintenance processes on a laser printer? 
+Ans: One of the most common maintenance processes on a laser printer is replacing the toner cartridge.
+
+
+Q2. The toner cartridge contains the ___________and in some cases, the ___________that’s used during the printing process.
+Ans. Toner, the photosensitive drum.
+
+
+Q3. Can you use a printer if you receive a message like “ The Toner is Getting Low”?
+Ans. You’re still able to print and use the printer.
+
+
+Q4. What does OPC stand for?
+Ans. OPC stands for Organic Photoconductor.
+
+
+Q5. What is included with the toner cartridge? 
+Ans. The OPC is also included with that toner cartridge.
+
+
+Q6. Why do toner cartridges come wrapped in a package? 
+Ans: That doesn’t allow any sunlight to get in.
+
+
+Q7. How do you replace a toner cartridge? 
+Ans: You would power down the printer. Usually you have to open the printer to gain access to the cartridge itself and then simply remove the old cartridge and replace it with the new cartridge.
+
+
+Q8. What should you do before putting a new cartridge into the printer? 
+Ans: You want to make sure that all the packing strips or anything that’s used to seal the cartridge has been removed so it's able to be used by the printer. 
+
+
+Q9. How do I replace a toner cartridge in my laser printer? 
+Ans: It’s usually best practice to keep that cove in place and prevent any light from getting to that photosensitive drum. 
+
+
+Q10. What type of maintenance might be necessary for a laser printer? 
+Ans: You will need to perform some type of maintenance. 
+
+
+Q11. ________________are complex pieces of machinery with a lot of moving parts on the inside. 
+Ans. Laser printers 
+
+
+Q12. Where can one get a laser printer maintenance kit? 
+Ans:  Usually there is a laser printer maintenance kit that you can get from the manufacturer of the printer that gives you all of the parts that you might want to replace during one of these maintenance tasks.
+
+
+Q13. How often should you perform maintenance tasks on a laser printer? 
+Ans:  Usually the manufacturer of the printer will tell you how long you should wait to perform one of these maintenance tasks.
+
+
+Q14. What does a laser printer maintenance kit typically include? 
+Ans:  These will usually have feed rollers inside, a new fuser unit, or anything else that may get worn on that printer over time.
+
+
+Q15. What should you do before working inside of a laser printer? 
+Ans: Before working inside of a laser printer, you want to power off and remove that power source. And then you can replace any of those parts that may have been included with this maintenance kit.
+
+
+Q16. What should you be careful of when working with the fuser assembly inside a printer? 
+Ans: So you want to be very careful with what you’re touching inside of this printer so that you can avoid any burns. 
+
+
+Q17. What do you have to do once you’re done replacing feed rollers and the other parts of the maintenance kit?
+Ans. Once you’re done replacing feed rollers and the other parts of the maintenance kit, make sure that you reset the page counter so when the next maintenance update may be required.
+
+
+Q18. What might happen when replacing a toner cartridge? 
+Ans: You can notice that all of the subsequent output looks a little different than the original toner cartridge. 
+
+
+Q19. How can you calibrate the printer to get the right density of toner? 
+Ans: There’s usually a calibration option inside of the printer that will create some output.
+
+
+Q20. What can you use to clean a laser printer? 
+Ans: Some good best practices are to use water and isopropyl alcohol, which is often abbreviated as IPA.
+
+
+Q21. What should you avoid using when cleaning a laser printer? 
+Ans: You don’t want to use any harsh chemicals or commercial cleaners when cleaning a laser printer. 
+
+
+Q22. How should you clean the outside of the printer? 
+Ans: You want to use a damp cloth with cold water.
+
+
+Q23. How should you clean the inside of the printer? 
+Ans: When working on the inside of the laser printer, you can also use a damp cloth with cold water. 
+
+
+Q24. What should you use to clean the rubber rollers inside of a laser printer? 
+Ans: You’ll want to clean those with isopropyl alcohol or cold water. 
+
+
+Q25. A normal vacuum cleaner is designed for the very fine toner that’s inside of a laser printer. (True/ False)
+Ans. False.

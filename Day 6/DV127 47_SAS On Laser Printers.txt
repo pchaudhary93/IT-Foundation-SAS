@@ -1,0 +1,170 @@
+DV500_47_SAS On Laser Printers
+Self-Assessment Sheet
+
+
+Q1. Laser Printers are commonly found in__________and ___________.
+Ans. At home and in the office is a laser printer.
+
+
+Q2. How does a laser printer work? 
+Ans: A laser printer combines high voltages with powdered toner, heat, and pressure to create output on a printed page.
+
+
+Q3. What are the advantages of using a laser printer? 
+Ans: The laser writes or paints exactly what it would like to have appeared on the piece of paper.
+
+
+Q4. What is responsible for producing the image on the sheet of paper? 
+Ans: The drum is responsible for producing the image on the sheet of paper.
+
+
+Q5. What does the laser do? 
+Ans: A laser printer combines high voltages with powdered toner, heat, and pressure to create output on a printed page.
+
+
+Q6. What is the imaging drum? 
+Ans: The image that ultimately is printed on this sheet of paper starts with the imaging drum.
+
+
+Q7. How do you replace an imaging drum? 
+Ans: You simply replace that single component.
+
+
+Q8. What if you are replacing toner cartridges?
+Ans. When you replace your toner cartridge, you’re not only replacing the toner but you’re also replacing the imaging drum.
+
+
+Q9. What is the purpose of a fuser assembly? 
+Ans:  The fuser assembly uses heat and pressure to effectively melt the toner so that it is permanently part of the printed page.
+
+
+Q10. What is the fuser assembly inside of a laser printer? 
+Ans: It’s that dark brown drum that’s inside of this piece that allows for the heat and the pressure to be used with that toner.
+
+
+Q11. How can you easily replace the fuser assembly if there are any problems? 
+Ans: It has little hooks that you can move to release the entire fuser assembly and easily replace it if you have any problems.
+
+
+Q12. What colors are usually installed into a laser printer? 
+Ans: The colors inside of your printer will be cyan, yellow, magenta, and a black color.
+
+
+Q13. How are the colors from the individual cartridges combined into a single page? 
+Ans: You are able to pull exactly the right amount of color from each individual cartridge. 
+
+
+Q14. Colors are usually installed into the laser printer as ____________separate cartridges.
+Ans. Four
+
+
+Q15. What do each separate cartridge allow us?
+Ans. This not only allows you to remove and replace cartridges as you use them but you’re able to pu;; exactly the right amount of color from each individual cartridge.
+
+
+Q16. What is transferred onto the belt in the printer? 
+Ans: The color from each cartridge is transferred to the belt.
+
+
+Q17. How is a single page from the printer tray sent through the printing process? 
+Ans: Through the use of a pickup roller.
+
+
+Q18. What might be the problem if no pages are being picked up in a printer? 
+Ans: Problem is probably with this pickup roller.
+
+
+Q19. What do you need to do if the pickup roller is worn down? 
+Ans: Clean or replace.
+
+
+Q20. What do the pickup rollers do? 
+Ans: The pickup rollers work in conjunction with a separation pad to be able to pull just the top page off that paper tray.
+
+
+Q21. What is the purpose of the separation pad? 
+Ans: The separation pad is also helpful to keep multiple pages from being sent through the printer all at one time.
+
+
+Q22. How expensive is the separation pad? 
+Ans: These are relatively inexpensive parts.
+
+
+Q23. What is duplexing? 
+Ans: There are many printers that can perform duplexing, which is printing both sides of the page when it finally presents you with the output.
+
+
+Q24. Does duplexing require any human intervention? 
+Ans: It doesn’t need any human intervention to be able to print on both sides of the page.
+
+
+Q25. How does a printer configured for duplexing work? 
+Ans: When a printer is configured for duplexing, it usually prints on one side of the page, goes through an extra step to be able to turn the page over, and then prints on the other side of the page.
+
+
+Q26. What type of hardware is needed for duplex printing? 
+Ans: This could be something that is built into the printer and is shipped with the printer automatically or it may be an optional add-on that you can either purchase with the printer or add to the printer later.
+
+
+Q27. How does the duplex assembly work? 
+Ans: It has a method of flipping the paper over using this duplex assembly. 
+
+
+Q28. How does the duplex assembly work? 
+Ans: It has a method of flipping the paper over using this duplex assembly. 
+
+
+Q29. What is used to provide a negative charge to the photosensitive drum during the charging phase? 
+Ans: A corona wire or charge roller is used to provide a negative charge to the photosensitive drum.
+
+
+Q30. What is the purpose of the negative charge? 
+Ans: This negative charge effectively clears the drum and prepares it for the image that will be provided by the laser.
+
+
+Q31. What happens during the exposing phase? 
+Ans: In the third phase or the exposing phase, the laser begins writing the image to the photosensitive drum.
+
+
+Q32. What is the purpose of the charging phase in the laser printer? 
+Ans: The charging phase created a negative charge, the laser is creating a positive charge everywhere it touches that photosensitive drum.
+
+
+Q33. What is phase six of the laser printing process? 
+Ans: To be able to accomplish that, we need to apply heat and pressure in phase six, or the fusing phase.
+
+
+Q34. What is Step 7 of the printing process? 
+Ans: Step seven is the cleaning phase, which removes any excess toner from that drum.
+
+
+Q35. What is the process of printing a single page on a printer? 
+Ans: The process cycles through again and this photosensitive drum may rotate a number of times just to print a single page on the printer.
+
+
+Q36. What is the first step in the laser printing process? 
+Ans: The first step is the processing step. At this point nothing is moving inside of your printer.
+
+
+Q37. What is the fifth step in the printing process? 
+Ans: In step five or the transferring phase, we can now take all of the toner that’s on the drum and transfer that toner to the printed page.
+
+
+Q38. Which step is known as a fusing step and what it is?
+Ans: Step six
+
+
+Q39. What would be the final step in the printing process? 
+Ans:  Step six
+
+
+Q40. How many total steps are there in the printing process?
+Ans. Total step seven
+
+
+Q41. Third step of the printing process is the ________stage.
+Ans. The exposing stage.
+
+
+Q42. In which step we're writing a negative charge to the photosensitive drum?
+Ans.  Step two.
