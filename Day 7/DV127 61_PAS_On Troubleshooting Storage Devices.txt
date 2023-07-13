@@ -1,0 +1,152 @@
+DV500_61_SAS On Troubleshooting Storage Devices 
+Self-Assessment Sheet
+
+
+Q1. What does it mean when you see a message on the screen that says, "Cannot read from the source disk"? 
+Ans:  This indicates a problem reading or writing information to the storage drive.
+
+
+Q2. What is the "click of death"? 
+Ans: Because there really should not be any loud noises coming from inside of that driver case. In those cases, it might be that the driver is failing or it may have already failed. 
+
+
+Q3. What should be done first when troubleshooting storage problems? 
+Ans: The first thing you should do if possible is to make a backup of all of the critical data on that drive. 
+
+
+Q4. How can I check if my system is overheating? 
+Ans: This is something that obviously would affect all of the components inside of your system.
+
+
+Q5. What can a user do if their power supply does not have enough power for a storage drive? 
+Ans: You either want to remove the hardware so you have enough power for the drive or it’s time to upgrade that power supply. 
+
+
+Q6. What if you’re not sure if the problem is with the drive or something outside of the storage drive?
+Ans. You may want to run some hardware diagnostics of that drive itself. 
+
+
+Q7. What can the drive manufacturer provide to check the working components of a drive? 
+Ans: The drive manufacturer can provide you with a set of diagnostics that will check all of the networking components of that drive and be able to tell you whether the drive is operating properly or if there’s any errors. 
+
+
+Q8. What messages may occur when you boot your system? 
+Ans: You could get a message that says, drive not recognized or boot device not found. 
+
+
+Q9. What lights may occur when you boot your system? 
+Ans: You might get lights that show access to the drive or there may be no lights showing access to the drive. 
+
+
+Q10. What does it mean when an operating system is not found during startup? 
+Ans: This means the drive is there. But for some reason, we’re not able to find an operating system installed on that storage drive. 
+
+
+Q11. What is the first step to troubleshoot this issue when an operating system is not found during startup?
+Ans. The first thing you should do is check the physical configuration. 
+
+
+Q12. The ____________maintains the list of priorities for all of the boot devices during startup.
+Ans. BIOS
+
+
+Q13. What is the sequence for booting up in a BIOS? 
+Ans: Your BIOS will first check the storage drive that’s at the top of the list. 
+
+
+Q14. What should I check if my system is not booting? 
+Ans: You want to check the USB interfaces on your system. 
+
+
+Q15. What should you do if you are booting from a new storage drive? 
+Ans: You’ll want to check the data and power cables to make sure that drive has physically been installed properly. 
+
+
+Q16. What is a potential problem with hard drives? 
+Ans: One problem with hard drives is that they are spinning mechanical systems. 
+
+
+Q17. What can happen if a solid state drive fails? 
+Ans: You would not be able to read and write any data to that drive.
+
+
+Q18. What does RAID stand for?
+Ans. Redundant Array of Independent Disks.
+
+
+Q19. What is RAID? 
+Ans: In a data center there might be multiple drives that are connected through RAID. 
+
+
+Q20. How do you investigate a RAID controller failure? 
+Ans: It might be that a single drive of that RAID array has failed and you need to either replace or update the drive in the system. 
+
+
+Q21. What can a RAID manager tell you? 
+Ans: There is a RAID manager that can list out all of the drives in the system, tell you what types of models those drives might be, and can give you a status of the performance of each of those individual drives in the RAID array.
+
+
+Q22. How many drives is required in RAID 0?
+Ans. It will require two or more drives.
+
+
+Q23. What happens if a single drive failure occurs in a RAID 0 array? 
+Ans: A single drive failure will break the array, and you will have data loss. 
+
+Q24. How many drives do you need for RAID 1? 
+Ans: You still need at least two drives in your system.
+
+
+Q25. What is the minimum number of drives required for RAID 5? 
+Ans: You need three or more drives. 
+
+
+Q26. RAID 10, which you may see written as______________, requires _________________ drives. 
+Ans. RAID 1 plus 0, four or more drives. 
+
+
+Q27. What is the full form of SMART? 
+Ans: SMART stands for Self-Monitoring, Analysis, and Reporting Technology. 
+
+
+Q28. What information is provided in SMART data? 
+Ans: Although we don’t commonly see these statistics when we’re using our drives, we are able to access this information, either using third-party utilities or utilities from the drive manufacturer themselves. 
+
+
+Q29. How often will Mini RAID arrays perform their own checks? 
+Ans: Either once a day, once a week, or once a month, and can give you an update on how well those drives are performing during that time. 
+
+
+Q30. What should be done when receiving a message that a drive is failing? 
+Ans: It’s time to back that data and replace that drive as soon as possible. 
+
+
+Q31.What are the different parts of your computer system that can be used to retrieve or store the data? 
+Ans: Memory access
+
+
+Q32. What are some ways to measure the overall performance of our storage devices?
+Ans. One way to do that is to measure the number of input/output operations per second or IOPS.
+
+
+Q33. IOPS stands for?
+Ans.  IOPS stands for Input/Output Operations Per Second. 
+
+
+Q34. How much IOPS can a hard drive achieve? 
+Ans: You’ll probably max out somewhere around 200 IOPS.
+
+
+Q35. What is the IOPS of a solid state drive? 
+Ans: You can have performance up to one million IOPS. 
+
+
+Q36. How can we troubleshoot when certain drives are missing from the File Manager? Ans: In those cases, we may want to check the BIOS, especially if the drive that’s missing happens to be physically located on our computer. 
+
+
+Q37. If this is an external drive that’s connected via USB, then we want to be sure we have_____________ for the drive and that we’re connecting to the appropriate __________interface.
+Ans. Power, USB.
+
+
+Q38. How do we reconnect a missing network share? 
+Ans: We may want to run the login script again that will go through the process of mapping the appropriate drives.

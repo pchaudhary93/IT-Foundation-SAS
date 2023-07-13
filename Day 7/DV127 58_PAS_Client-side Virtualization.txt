@@ -1,0 +1,152 @@
+DV500_58_SAS_Client-side Virtualization
+Self-Assessment Sheet
+
+
+Q1. What does virtualization technology allow us to do? 
+Ans: Virtualization technology allows us to run multiple operating systems on one single desktop at the same time.
+
+
+Q2. What are examples of Virtualization Technology? 
+Ans. You can have a macOS desktop, and on the desktop you’re running Windows 11, Linux Ubuntu, and other operating systems all simultaneously.
+
+
+Q3. How does each individual operating system view their resources? 
+Ans: To each individual operating system< it looks like the OS has its own CPU, its own memory, and its own storage.
+
+
+Q4. What type of virtualization is commonly found in a data center or enterprise environment? 
+Ans: You might have a standalone server that hosts multiple virtual machines on that hardware. 
+
+
+Q5. How long has virtualization been around? 
+Ans: We’ve been using IBM mainframes since the 60s.
+
+
+Q6. What are some of the uses of virtualization? 
+Ans: One use of this virtualization is to use legacy software on an older operating system, while at the same time running the latest operating system on your desktop.
+
+
+Q7. What can you do with virtual machines? 
+Ans: You could run Windows 10 on one virtual machine, Windows 11 on another virtual machine, and run different software in each of those operating systems.
+
+
+Q8. What is one example of how virtual machines can be helpful? 
+Ans: This can be especially helpful if you have a very old legacy type of software that will only run on a very specific type of operating system.
+
+
+Q9. What operating systems can be run on one single desktop? 
+Ans: Multiple versions of operating systems on one single desktop. 
+
+
+Q10. What does Virtualization as a technology allow us?
+Ans. This virtualization is also useful if you need to run different operating systems at the same time.
+
+
+Q11. What are the advantages of virtualization? 
+Ans: This allows us to use one single physical device but still take advantage of all of the strengths associated with these different operating systems.
+
+
+Q12. : What is the purpose of virtualization? 
+Ans: With virtualization, we can simply move our mouse from one window to another, and we’re instantly using that OS.
+
+
+Q13. The software that’s able to keep track of our storage, our memory, our CPU, and everything else between all of these different virtual machines is called the __________.
+Ans. Hypervisor.
+
+
+Q14. ___________________ really does describe exactly what the software is doing.
+Ans. The virtual machine manager
+
+
+Q15. We’re able to run multiple operating systems, but the memory, the storage, the networking, and everything else is managed as if it is its own _____________.
+Ans.  Single OS.
+
+
+Q16. How do you ensure that your CPU is ready to be used with virtualization software?
+Ans. Many CPUs have hardware-based virtualization built into the CPU itself, and indeed, some hypervisors require that you’re running that type of CPU.
+
+
+Q17. What hardware is built into CPUs running on an Intel platform?
+Ans.  If you’re running on an Intel platform, the hardware that’s built into the CPU is called virtualization technology, or VT.
+
+
+Q18. What hardware is built into AMD CPUs for virtualization?
+Ans.  If you’re using an AMD CPU, the technology you’re looking for is AMD-V.
+
+
+Q19.What should be taken into consideration when planning to do virtualization on a desktop? 
+Ans:  If you’re planning to do any virtualization on your desktop, you want to be sure you have plenty of RAM.
+
+
+Q20. How much memory do I need to run multiple VMs? 
+Ans:  Significant amount of memory.
+
+
+Q21. What do you need to consider when creating a virtual machine? 
+Ans:  You want to be sure you have plenty of RAM available for all the VMs that you plan to run.
+
+
+Q22. Why should you consider the amount of storage space when creating a virtual machine? 
+Ans: We need somewhere to store all of these virtual machines, and it’s not unusual for a single operating system to require multiple gigabytes of storage space.
+
+
+Q23. What should you configure when creating a virtual machine? 
+Ans:  You want to be sure that each guest operating system is configured with the proper network configuration.
+
+
+Q24. What is an example of how a developer might take advantage of a VM? 
+Ans: The developer could run all of their test code within this VM and known that they would not have any effect on any production systems.
+
+
+Q25. What benefits does a Virtual Machine provide? 
+Ans: Virtualization is a perfect resource for someone who will be building their own applications.
+
+
+Q26. What is the ability of virtual machines? 
+Ans: Virtual machines also have the ability to create snapshots.
+
+
+Q27. Working in a VM, especially a virtual machine that is exactly the same as a production network, is perfect for a ______________.
+Ans.  Developer.
+
+
+Q28. What does the testing in a virtualized environment allow the developers?
+Ans. They can begin writing code in an environment that is a mirror image of the production systems.
+
+
+Q29. What is a major concern with running virtual environments? 
+Ans: One of the concerns when you’re using all of these different operating systems and virtualized environments on one physical device is how secure each one of those VMs may be from each other.
+
+
+Q30. What can happen once malware gains access to a hypervisor? 
+Ans: It will gain access to parts of the hypervisor itself.
+
+
+Q31. Have any vulnerabilities been identified in the past that allowed for VM escapes? Ans: In the past we have identified certain hypervisors where we were able to perform a VM escape.
+.
+Q32. What security measures can be used to protect virtual machines? 
+Ans: You might install a host-based firewall.
+
+
+Q33. What is the potential danger of using hosted services for virtual machines? 
+Ans: Any virtual machine that comes from someone other than yourself does have the potential to have this malware inside of it, so it’s always best to build your own virtual machines. 
+
+
+Q34. What should you be aware of when using someone else's virtual machine? 
+Ans:  Internet viruses and malware.
+
+
+Q35. What are some different ways to configure the networking between VMs? 
+Ans: There are many different ways to configure the networking that is used between all of these different VMs that might be running on a system.
+
+
+Q36. What type of IP address does a virtual machine use? 
+Ans: Private IP address.
+
+
+Q37. How does a virtual machine obtain an IP address? 
+Ans: When you start up a virtual machine, it goes through exactly the same process for obtaining an IP address as any physical device that’s connected to the network. 
+
+
+Q38. How can you lock down a VM so there is no communication outside of the local virtualized environment? 
+Ans: If you want to lock down a VM so there was no communication outside of that local virtualized environment, you might want to configure a private address.

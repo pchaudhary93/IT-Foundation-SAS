@@ -1,0 +1,174 @@
+DV500_65_SAS_Troubleshooting Networks
+Self-Assessment Sheets
+
+
+Q1. What is a challenging troubleshooting task on a network? 
+Ans: One challenging troubleshooting task on a network is someone trying to communicate with the device but getting no response at all. 
+
+
+Q2. What should be the first step taken to troubleshoot this network issue? 
+Ans: One first step should be to check if we have any network connectivity at all. 
+
+
+Q3. What do we do to start testing how far we can communicate through a network? 
+Ans: Once we know we’re at least connected to the network, we can then begin testing how far we’re able to communicate through that network. 
+
+
+Q4. What is the loopback IP address? 
+Ans: We’ll ping the loopback IP address, which is the internal IP of our device, which is 127.0.0.1. 
+
+
+Q5. What if our loopback address responds to the ping?
+Ans. If our loopback address responds to the ping, then at least we’re able to communicate using the built-in network capabilities inside of our own device.
+
+
+Q6. Our next step would be to ping the IP address that’s been assigned to our _______________.
+Ans. Local network adapter. 
+
+
+Q7. What does pinging the IP address do? 
+Ans: If we ping our local address, it will check the local configuration of our system, the physical network adapter, and confirm that we are indeed connected to the network. 
+
+
+Q8. What should we do if the devices on the network respond to our ping? 
+Ans: If all of those come back with a response from our ping, then we should go further into the network and try pinging our default gateway. 
+
+
+Q9. Why is it important to check the default gateway?
+Ans: Every network is going to have a default gateway. And since that’s the critical link between us and the rest of the world, it’s important to know if that device is able to respond back. 
+
+
+Q10. What is a common way to check if a network is connected to the internet? 
+Ans: One very common choice might be Google’s DNS server at 8.8.8.8, or the server Quad9, which is aptly 9.9.9.9.
+
+
+Q11. What could be the reason for intermittent connectivity on a wireless network? 
+Ans: If we’re on a wireless network and we find that only part of our pings happen to be responding, then we may have a problem with intermittent connectivity on that wireless network. 
+
+
+Q12. How can we check if the signal strength is strong enough? 
+Ans: So we’ll not only need to look at the signal that we’re sending, but we need to look at the transmitting antenna that we’re using and the receiving antenna that we’re using. 
+
+
+Q13. Can access points be configured to automatically find the best frequency? 
+Ans: Many access points can be configured to automatically find the best frequency to use for that particular area. 
+
+
+Q14. How can I improve the overall performance of my wireless network? 
+Ans: You might also want to try manually configuring different channels to see if that improves the overall performance of the wireless network. 
+
+
+Q15. What can be done to optimize wireless signals? 
+Ans: You may be able to move to a different location or modify the location of your access point to better optimize the communications path between you and the access point. 
+
+
+Q16. What is the goal of resolving intermittent connectivity issues? 
+Ans: If this is a very large area, and you’re a good distance away from the access point, then this intermittent connectivity may just be related to your distance away from the access point. 
+
+
+Q17. What built-in utilities can give you information about the interference? 
+Ans: Your operating system may have built-in utilities that can give you information about the interference that you might be seeing. 
+
+
+Q18. __________________you can install that can give you more details about the difference between the good signal and the bad signal.
+Ans. There might be a third-party utility 
+
+
+Q19. What could be causing interference on a wireless network? 
+Ans: If there are fluorescent lights, microwave ovens or other devices in your area that use the same frequencies as your access point, then these could all be causing this interference on your network. 
+
+
+Q20. How can you evaluate wireless network interference? 
+Ans: One way to evaluate this is by looking at the signal-to-noise ratio, or SNR, of your wireless network. 
+
+
+Q21. What if this ratio was 1:1, where there was just as much noise as there was signal?
+Ans. Then your wireless network would probably not be operating. 
+
+
+Q22. ______________is very good about giving you information in the system tray that can help you with troubleshooting.
+Ans. Windows 
+
+
+Q23. What if you’re looking at the system tray and Windows says there is limited or no connectivity, or in some cases, no internet access then what's the issue?
+Ans. Then you certainly have an issue with communicating out to the internet. 
+
+
+Q24. What should be checked first when troubleshooting IP address issues? 
+Ans: The first thing we should check is the IP address that’s been assigned to our device. 
+
+
+Q25. What if we see an automatic private IP address in this configuration?
+Ans.  Then it’s possible that the DHCP server that we were expecting to receive an IP address from is not available, and our system has created our own private IP address. 
+
+
+Q26. _______________addresses are link local addresses and can only communicate to other devices on our local network.
+Ans: APIPA 
+ 
+
+Q27. What type of error message would a Windows device display when attempting to access the internet with an APIPA address? 
+Ans: This would certainly cause windows to show an error, such as “Limited or no connectivity” and “No internet access.”
+
+
+Q28. How can we check whether or not a device has a valid IP address? 
+Ans: If the IP address on our device has been assigned by the DHCP server, then we can begin the normal ping process to check our local machine.  
+
+
+Q29. What happens when a network experiences problems during a voice call? 
+Ans: Then you know that you’re very sensitive to any type of delays that may be occurring. 
+
+
+Q30. If data doesn’t get through the network, there’s no way to rewind the conversation and rescind all of that data. (True/False)
+Ans. True
+
+
+Q31. What is Jitter? 
+Ans: Jitter is defined as the amount of time between each individual frame on the network. 
+
+
+Q32. What is the purpose of evaluating jitter? 
+Ans: There are some statistics we can evaluate to see how well our network may be performing with these real-time protocols. 
+
+
+Q33. What happens when jitter is not consistent? 
+Ans: There would be more inconsistent response time. 
+
+
+Q34. What could cause problems with the quality of our phone calls? 
+Ans: As long as we have a consistent, regular interval, then we have a phone call that precedes without any problems. 
+
+
+Q35. How to solve the issue of delay or latency on our network?
+ANs. We need a high-speed network, and we need very low latency. 
+
+
+Q36. What are some potential causes of network slowdowns? 
+Ans: It’s also possible that we’re using very old equipment that’s not able to maintain the high speeds that we need for some of these networks. 
+
+
+Q37. What is the best way to diagnose a network issue? 
+Ans: So performing a packet capture can give you more details about where the actual problem may be occurring. 
+
+
+Q38. What is latency? 
+Ans: Latency measures delay in a packet’s arrival at the destination. 
+
+
+Q37. What determines how much information can be transferred? 
+Ans: Latency value is going to help determine how much information we’re able to transfer between two devices. 
+
+
+Q38. What can cause latency problems? 
+Ans:  We start to see problems is where there may be a step along the way that exceeds what’s normally expected for latency. 
+
+
+Q39. What is one of the best ways to measure latency? 
+Ans: One of the best ways to measure latency is with packet captures. 
+
+
+Q40. What is port flapping? 
+Ans: Port flapping causes a switch port’s state to fluctuate between up and down within concise periods of time. 
+
+
+Q41. What should you do when you encounter a port flapping problem? 
+Ans: You may want to move to a different physical interface on that switch.

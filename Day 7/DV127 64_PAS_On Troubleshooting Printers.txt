@@ -1,0 +1,162 @@
+DV500_64_SAS_On Troubleshooting Printers 
+Self-Assessment Sheet
+
+
+Q1. How can you test if a printer is working properly? 
+Ans. One way that you could test this is by using the test page feature that’s built into Windows. 
+
+
+Q2. How do you send a test page to the printer? 
+Ans: This is in either the Windows settings, or it could be in the properties of the printer itself. In both of those Windows locations, there is a print a test page or Print Test Page button. 
+
+
+Q3. : What are some ways to diagnose a printer issue? 
+Ans: It will confirm that your Windows configuration is correct, that the connection between your device and the printer is working properly, and that the printer itself is able to print documents. 
+
+
+Q4. What if you look at the test page and the output does not look how you would expect it to be?
+Ans. Then you may want to research what’s causing this problem.
+
+
+Q5. What do you do if you have a line that goes all the way down the page on an inkjet printer? 
+Ans: Then it’s time to clean the print heads or to replace the printheads on that inkjet printer. 
+
+
+Q6. What do you do if you have a line that goes all the way down the page on a laser printer? 
+Ans: Then it’s time to clean the print heads or to replace the printheads on that inkjet printer. 
+
+
+Q7.Why is the output on the page very light or difficult to read? 
+Ans: Then you might have a problem either with the toner if it’s a laser printer or the ink if it’s an inkjet printer. 
+
+
+Q8. What could cause items that you print on one part of the page to show up later on down the page? 
+Ans: Then you may have a problem with the cleaning process in a laser printer. This will create a ghost or shadow of information that you had previously printed on the earlier drum rotation. 
+
+
+Q9. What does a scratched photosensitive drum look like? 
+Ans: It looks like a line going all the way down the page. 
+
+
+Q10. What happens when toner sticks to the scratch? 
+Ans: Any of the toner will stick to that scratch and then gets transferred to the printed page inside of the printer. 
+
+
+Q11. What is a symptom of a problem associated with the cleaning process on a laser printer? 
+Ans: Then you might have a normal part of the page on the top, but then you’ll start to see parts of that page repeated later on down the page. 
+
+
+Q12. What can cause garbled print? 
+Ans:  This garbled print could be created because you’re using the bad printer drive, or you’ve specified the wrong model of printer in your printer configuration. 
+
+
+Q13. How do you check if an application is printing to the correct printer model? 
+Ans: You should run a test print from the printer itself so that it will print what it normally would expect during a print out. 
+
+
+Q14. What happens when you touch part of the output from a laser printer? 
+Ans: You may receive a printout from a laser printer and everything looks perfect. 
+
+
+Q15. What could be causing a printer to not produce any output? 
+Ans: The toner has not been properly fused to the paper, so simply touching the toner on the page causes it to come off on your fingers. 
+
+
+Q16. What happens if you send output to the printer that is expecting a different sized page? 
+Ans: The printer will stop and give an error message that there’s some type of mismatched between the page that you would like to print and the paper that happens to be installed in the printer. 
+
+
+Q17. What message will you get if the paper size installed in the printer tray is incorrect? 
+Ans: This will give you a message on the screen that says you will need a certain size of paper being installed into a particular tray of the printer. 
+
+
+Q18. What should you do if the paper gets stuck in the printer? 
+Ans: We’ll need to remove the paper from the printer while being very careful not to rip any part of that paper and leave pieces of that page inside of the printer. 
+
+
+Q19. What might cause issues with the printer? 
+Ans: We might also have problems with the printer picking up a page to send it through the print cycle, or it’s picking up multiple pages at the same time and sending all of them through simultaneously. 
+
+
+Q20. How can I fix rollers that are worn or damaged? 
+Ans: Then you’ll want to replace those individually or replace them as part of a maintenance kit. 
+
+
+Q21. What could be causing my pages to come out creased? 
+Ans: There may be a problem with something along the paper path, or you may be using the wrong weight of paper. 
+
+
+Q22. What can cause the entire print queue to crash? 
+Ans: These corrupted print jobs may cause the entire process to stop, which would cause multiple print jobs to be added to the queue but nothing printing on the printer. 
+
+
+Q23. How does the print spooler service address this issue? 
+Ans: If it fails the first time, it will automatically restart the print spooler service. If it fails a second time, it will also restart the service. 
+
+
+Q24. What will happen if the print spooler service fails multiple times? 
+Ans: Any subsequent failures will cause the service to have no action, which means it will not automatically restart. 
+
+
+Q25. What can you do if the print spooler has crashing issues? 
+Ans: There may be information that can help you troubleshoot inside of the Windows Event Viewer. 
+
+
+Q26. What is a challenge with color printers? 
+Ans: You may want the printer to provide exactly the same colors as what you’re seeing on the screen. 
+
+
+Q27. What is the first step to calibrating a screen and printer? 
+Ans: You may be able to do some screen calibration without any additional tools but having a third party calibration tool makes the process easy and you know that the final output will be as accurate as possible. 
+
+
+Q28. What is the best way to calibrate a screen? 
+Ans: We’ll want to use a color of paper that gives us the best possible representation, and that’s usually something that is bright white. 
+
+
+Q29. What type of paper should be used for screen calibration? 
+Ans: Bright white 
+
+
+Q30. What is a calibration tool? 
+Ans: A calibration tool that’s built into the printer, or it may come included with a secondary utility. 
+
+
+Q31. How do we use a calibration tool? 
+Ans: This will provide exactly the right amount of ink or toner to be able to represent what’s on our screen. 
+
+
+Q32. What does a color calibration do? 
+Ans: You can start comparing the colors that you’re seeing on the screen with the color output that you’re getting on the printer. 
+
+
+Q33. What could be causing grinding noises from my printer? 
+ANS: There may be a problem with the mechanisms inside of the device. 
+
+
+Q34. What should I do if I hear grinding noises from my printer? 
+ANS: It may be that there’s paper that is jammed inside of the printer path, or it may be related to the carriage that’s inside of an inkjet printer not being able to move back and forth across the page. 
+
+
+Q35. What are some of the enhanced capabilities of office printers? 
+Ans: An example of that would be the finishing that occurs with our output. Finishing is what happens after we’ve created the output to add additional functions. 
+
+
+Q36. Does the printer have a stapler built in? 
+Ans: Yes, your printer may have a stapler built in. 
+
+
+Q37. How is the location of the holes determined? 
+Ans: The location of the holes is determined by the configuration of the print driver. 
+
+
+Q38. What should you check if the output is different? 
+Ans: If the output is different, you may want to check the print driver and confirm that you put the right settings in and that they match the configuration of the printer.
+
+
+Q39. What if you print something in portrait, and it ends up printing in landscape or vice versa?
+Ans. In those scenarios, we’re not getting the right orientation for the page. And so we’ll need to troubleshoot where the problem happens to be occurring. It may be that the printer is following the directions of the print driver, and the wrong option is being selected during the printing process.
+
+
+Q40. What might be the cause of a printer not printing in the correct orientation? 
+Ans: Another challenging printer troubleshooting task is when you print something in portrait, and it ends up printing in landscape or vice versa.

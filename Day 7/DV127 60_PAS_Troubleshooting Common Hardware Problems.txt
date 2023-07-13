@@ -1,0 +1,221 @@
+60_SAS_Troubleshooting Common Hardware Problems 
+
+
+Q1. What does POST stand for?
+Ans. Power-On Self-Test
+
+
+Q2. What is the POST? 
+Ans:  POST is designed to make sure that all of the main components of your system are available.
+
+
+Q3. What happens if one of the components in a POST process is not working properly? 
+Ans: If any of these components are missing or not working properly, you’ll hear a series of beeps and perhaps even see information shown on the screen detailing the problem that the POST found. 
+
+
+Q4. What should you do if you want to know the different beep codes? 
+Ans:  You’ll want to look at the documentation for your motherboard, which will list every beep code and what that beep code is associated with. 
+
+
+Q5. The drives and their boot order are configured in the ___________ configuration.
+Ans. BIOS configuration.
+ 
+
+Q6. What is the full form of BIOS?
+Ans. Basic Input Output System
+
+
+Q7. What is the function performed by the BIOS?
+Ans. You might see on the screen while you’re booting your system that the date and time is either incorrect or has been reset.
+
+
+Q8. What might happen if the battery has gone bad or all the voltage is depleted? 
+Ans: Then the system will not have any idea what the date and time might be.
+
+
+Q9.What should you do if you start your computer and get a blank screen?
+Ans. Then you’ll want to listen to hear those beeps telling you. 
+
+
+Q10. How do you fix other problems like if the system tries to boot from a drive that is not the normal startup drive?
+Ans. The drivers and their boot order are configured in the BIOS configuration. So you need to start your BIOS config.
+
+
+Q11. What do you need to do if you’ve left a USB drive plugged in and the USB drive attempts to boot prior to the primary storage drive?
+Ans. In that case, you would simply need to remove the USB drive, restart your computer, and it will begin to boot from the normal boot drive.
+
+
+Q12. What message will you get if something isn't working properly? 
+Ans: This is a Windows stop error or what we commonly call a blue screen of death. 
+
+
+Q13. Windows Stop Error also refers to as a _______________________.
+Ans. Blue screen of death.
+
+
+Q14. What information do you receive while seeing the blue screen on your system?
+Ans. It tells us that something fatal occurred.
+
+
+Q15. If this blue screen goes by very quickly and your system restarts, you can still go to the ____________________.
+Ans. Windows Event.
+
+
+Q16. How can you view the information associated with a Windows stop error? 
+Ans: Windows Event viewer to see all of the information associated with this Windows stop error.
+
+
+Q17. What is the Event Viewer useful for? 
+Ans: This is especially useful if you’re visiting a user who’s had this problem in the past. 
+
+
+Q18. The reference pages on Microsoft’s website give a lot of detail on how you can resolve specific issues.( True/ False)
+Ans. False
+
+
+Q19. What should I do if my computer is displaying a blue screen error? 
+Ans: You may want to contact the manufacturer of the computer or the hardware that you’ve installed in the computer that’s causing this blue screen error.
+
+
+Q20. Which websites can you use to research more about the Blue Screen Error?
+Ans. You can visit the Microsoft website Windows.com/stopcode. And then you can use the stop code that’s on the screen to find out more information about this error. 
+
+
+Q21.What are some potential causes of a blue screen? 
+Ans: It could be bad hardware in your system. 
+
+
+Q22. What will you do if your system is able to boot into Safe Mode but not able to boot into a full blown version of Windows?
+Ans. In that situation, it may help you narrow down where the actual problem may be occurring, since some drivers are loaded during Safe Mode and other drivers are not. 
+
+
+Q23. You can get a hardware diagnostics utility directly from the _____________.
+Ans.  Manufacturer 
+
+
+Q24. _______________will have hardware diagnostics built into the BIOS.
+Ans.  UEFI BIOS 
+
+
+Q25. What is the technical name for the spinning beach ball on Mac OS 10? 
+Ans:  Mac OS 10 spinning wait cursor. 
+
+
+Q26. What might happen when you see a spinning ball on your system and how to resolve it? 
+Ans: This is giving you feedback that something is happening on the system. And whatever is happening has to be completed before you are able to regain access to the operating system. 
+
+
+Q27. What might cause a spinning beach ball to appear on your system? 
+Ans: In some cases, that spinning ball may appear for a moment. And then it will go back to the normal cursor. 
+
+
+Q28. What if the cursor never reappears and you have to restart your system?
+Ans. You’ll want to go to the console logs in Mac OS to see if you can find more information about why this particular error occurred. 
+
+
+Q29. What should you check when the screen of a desktop computer stays black?
+Ans: One common problem on a desktop computer is a screen that stays back. There’s nothing on the screen, no writing, no messages, and no feedback as to where the problem may be occurring.
+
+
+Q30. What are the possible inputs to a monitor? 
+Ans: There’s usually a button or setting where you can configure which interface on the monitor is designed to be the input. 
+
+
+Q31. How can you make a dim image on the screen brighter? 
+Ans: Most monitors will have a brightness and contrast control.
+
+
+Q32. What should you do if you see information on the screen but then everything goes black after Windows loads? 
+Ans: Then you might want to tell Windows to start up in VGA mode. 
+
+
+Q33. __________________mode is able to work across almost every monitor on the market. 
+Ans. Generic graphics
+
+
+Q34. What tool can be used to check if an outlet is providing power to the power supply? 
+Ans. You can grab your multimeter or handheld tester to see if this outlet really is providing power to the power supply. 
+
+
+Q35. What should you look for when determining if a computer is receiving power? 
+Ans: Power outlet 
+
+
+Q36. What should we check to determine if there is a problem with the motherboard? 
+Ans: We should check the power-on self-test process to see if it identifies any problems during the startup.
+
+
+Q37. The fans that are inside of your system need a lot of voltage to spin. ( True/ False).
+Ans. False
+
+
+Q38. How can I get an overview of my computer's performance?
+Ans. To be able to get an overview of performance, you may want to start Task Manager and view the CPU utilization for each individual process. There’s also a Performance tab. And clicking that brings up a list of CPU utilization for all processes on your computer. 
+
+
+Q39. What could cause a system to become sluggish? 
+Ans: You might have a problem with a process or an application running on your system.
+
+
+Q40. What can cause an operating system to perform poorly? 
+Ans: If your storage drive is filling up and the operating system is not able to write files to that drive, this could also cause the operating system to perform poorly. 
+
+
+Q41. What happens if your desktop system’s temperature rises? 
+Ans: It will also begin to run the CPU slower so that your system will be able to cool down. 
+
+
+Q42. What components generate heat in a computer system? 
+Ans: Every component inside of your system is contributing to the overall heat that’s generated by your computer. 
+
+
+Q43. How can you measure the temperature inside of a computer? 
+Ans: You might want to use a third-party utility such as HWMonitor to be able to know exactly what the temperature is inside of your computer. 
+
+
+Q44. Why should electronic components be cleaned? 
+Ans: All of the electronic components need to be cleaned to be able to properly perform that cooling function.
+
+
+Q45. What if your backside of the system has a lot of dust and produces a heat, how will you resolve this issue?
+Ans. To solve this problem, we’ll want to vacuum up all of the dust that’s on the back of this system so that we can regain an airflow through the computer case. 
+
+
+Q46. What could be causing my computer to abruptly power down? 
+Ans: It may be a single component on your system that is failing and causing the entire system to abruptly power down. 
+
+
+Q47. What should you do after eliminating items that are working properly? 
+Ans: Once you eliminate items that are working properly, you can move your focus towards devices that may not be working correctly and perform additional diagnostics of those components. 
+
+
+Q48. What message might you receive when Windows has identified a problem? 
+Ans: You get a dialog box like this one that at least tells you that a problem occurred. 
+
+
+Q49. What is the Reliability Monitor? 
+Ans: This will take all of the information that’s been saved in your Event Viewer and provide you with a graphical overview of how your system has been performing. 
+
+
+Q50. What could be causing a scraping noise inside my system? 
+Ans: If you have a hard drive inside of your system, it could be the scraping noise coming from the hard drive itself. 
+
+
+Q51. What happens if a capacitor is damaged? 
+Ans: If a capacitor fails, the motor can display a variety of problems including not starting, overheating, and vibrating. 
+
+
+Q52. : What is a very frustrating error that can occur in an operating system and how will you resolve that? 
+Ans: One very frustrating error that can occur in an operating system is that everything suddenly freezes. Try hitting Control Alt Delete to see if you can regain access to the operating system. 
+
+
+Q53. What if you’ve recently installed a new driver or updated any part of your operating system?
+Ans. You might want to start with the F8 key and choose boot from the last known working configuration. 
+
+
+Q54.How can you prevent your computer from automatically restarting after a stop error or blue screen? 
+Ans:  If your system does start successfully in Safe Mode, you may want to start the system properties configuration, change the settings, and disable the automatically restart option. 
+
+
+Q55. What is the best way to reset the BIOS configuration? 
+Ans: It’s very easy to pop these out of the slot, replace it with a new battery, and restart your system.
